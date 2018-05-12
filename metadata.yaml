@@ -1,0 +1,27 @@
+_repo: The-Motor-Maids-in-Fair-Japan_13450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stokes, Katherine
+    gutenberg_agent_id: '5049'
+    url: http://www.gutenberg.org/2009/agents/5049
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Women travelers -- Juvenile fiction'
+- !lcsh 'Japan -- Juvenile fiction'
+title: The Motor Maids in Fair Japan
+url: http://www.gutenberg.org/ebooks/13450
