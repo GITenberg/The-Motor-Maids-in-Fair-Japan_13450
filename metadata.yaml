@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5049'
     url: http://www.gutenberg.org/2009/agents/5049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13450#The-Motor-Maids-in-Fair-Japan
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-09-13'
 gutenberg_type: Text
